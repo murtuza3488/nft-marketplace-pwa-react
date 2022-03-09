@@ -1,0 +1,898 @@
+export const DummyItemData = [
+  {
+    id: 1,
+    collection_id: 1,
+    imgUrl:
+      "https://lh3.googleusercontent.com/NTI8HIKnsHS6ZSTeeXGRLT_YyQp8VL8QOMk-SZ66RmYwQc6qJT3lpiFl1SrIX5_jDI7_FNdBAhKxLSNI3CKTY2h-I0F7FvLSP0EaVOY=w600",
+    owner: "sb000",
+    collectionname: "Monster Ape Club | MAC",
+    itemname: "Monster Ape #5889",
+    itemDescription: {
+      createdBy: "MACDeployer",
+      description:
+        "Monster Ape Club is a collection of 7,999 unique generated 3D Monster Apes, stored on the Ethereum Blockchain.",
+    },
+    date : 'March 3,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "Background Yellow",
+        third: "15% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Mack Fur Black",
+        third: "1% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "CLOTHES",
+        second: "T-shirt",
+        third: "2% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "EYES",
+        second: "Eyes 21",
+        third: "5% have this trait",
+      },
+      {
+        propertiesId: 5,
+        first: "FACE",
+        second: "Background Yellow",
+        third: "1% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x32ddbb0fc65bb53e1f7d6dc1c2a713e9a695b75b",
+      tokenId: 7269,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 102,
+        expiration: 3,
+        from: "abc",
+      },
+      {
+        id: 2,
+        price: 3,
+        usdPrice: 100,
+        expiration: 4,
+        from: "xyz",
+      },
+      {
+        id: 3,
+        price: 7,
+        usdPrice: 200,
+        expiration: 1,
+        from: "qwerty",
+      },
+      {
+        id: 4,
+        price: 7,
+        usdPrice: 300,
+        expiration: 4,
+        from: "pqr",
+      },
+      {
+        id: 5,
+        price: 1,
+        usdPrice: 20,
+        expiration: 2,
+        from: "ftw",
+      },
+    ],
+    price: 10,
+    usdPrice: 2000,
+  },
+  {
+    id: 2,
+    collection_id: 1,
+    imgUrl:
+      "https://lh3.googleusercontent.com/8qDEdf7fYQU2Zytjgd4mxEfbcjBGTY437Rr-GewjgS5zzDfM6SHl--LK4h1P2UZmbl4_WEATHzeZNjzhYbwyTHA42h8oVO2q5wc2BA=w600",
+    owner: "Ape_ice",
+    collectionname: "Monster Ape Club | MAC",
+    itemname: "Monster Ape #6884",
+    itemDescription: {
+      createdBy: "MACDeployer",
+      description:
+        "Monster Ape Club is a collection of 7,999 unique generated 3D Monster Apes, stored on the Ethereum Blockchain.",
+    },
+    date : 'April 23,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "Background LG",
+        third: "3% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Ice Body",
+        third: "10% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "CLOTHES",
+        second: "shirt",
+        third: "20% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "EYES",
+        second: "Eyes 4",
+        third: "8% have this trait",
+      },
+      {
+        propertiesId: 5,
+        first: "FACE",
+        second: "ice",
+        third: "10% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x32ddbb0fc65bb53e1f7d6dc1c2a713e9a695b75b",
+      tokenId: 6884,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 102,
+        expiration: 3,
+        from: "abc",
+      },
+      {
+        id: 2,
+        price: 3,
+        usdPrice: 100,
+        expiration: 4,
+        from: "xyz",
+      },
+      {
+        id: 3,
+        price: 7,
+        usdPrice: 200,
+        expiration: 1,
+        from: "qwerty",
+      },
+    ],
+    price: 25,
+    usdPrice: 2050,
+  },
+  {
+    id: 3,
+    collection_id: 1,
+    imgUrl:
+      "https://lh3.googleusercontent.com/Brt1EWwnBXrty8lsSk4m-ZmiPswfKm3ZN5eXGMglraAro7M04ecHpNsDQOVPpZnLe7YkSXTgCrT1npGJyMra3_e7oIr9OcYLw-u16sM=w600",
+    owner: "13434",
+    collectionname: "Monster Ape Club | MAC",
+    itemname: "Monster Ape #2153",
+    itemDescription: {
+      createdBy: "MACDeployer",
+      description:
+        "Monster Ape Club is a collection of 7,999 unique generated 3D Monster Apes, stored on the Ethereum Blockchain.",
+    },
+    date : 'February 10,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "Red",
+        third: "34% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Mac Lava",
+        third: "5% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "CLOTHES",
+        second: "jacket",
+        third: "2% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "EYES",
+        second: "Eyes 24",
+        third: "8% have this trait",
+      },
+      {
+        propertiesId: 5,
+        first: "FACE",
+        second: "angry",
+        third: "14% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x32ddbb0fc65bb53e1f7d6dc1c2a713e9a695b75b",
+      tokenId: 2135,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 102,
+        expiration: 3,
+        from: "abc",
+      },
+    ],
+    price: 41,
+    usdPrice: 1440,
+  },
+  {
+    id: 4,
+    collection_id: 2,
+    imgUrl:
+      "https://lh3.googleusercontent.com/wvsS23ODEKNahk1RCAPDb-zIgx8ZL0JK5Ob55KUp_XVjZVdhu7Sc7EJezb-dhtvDLqaXIAF4R6-80C6LGWhy0B2nTab9ynPfHq_0yg=w600",
+    owner: "F4h56",
+    collectionname: "Divine Anarchy",
+    itemname: "#8332",
+    itemDescription: {
+      createdBy: "DivineAnarchyS1",
+      description: "Divine Anarchy",
+    },
+    date : 'September 13,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "11",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Whiite",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0xc631164b6cb1340b5123c9162f8558c866de1926",
+      tokenId: 8333,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 102,
+        expiration: 3,
+        from: "abc",
+      },
+      {
+        id: 2,
+        price: 3,
+        usdPrice: 100,
+        expiration: 4,
+        from: "xyz",
+      },
+      {
+        id: 3,
+        price: 7,
+        usdPrice: 200,
+        expiration: 1,
+        from: "qwerty",
+      },
+    ],
+    price: 0.21,
+    usdPrice: 5300,
+  },
+  {
+    id: 5,
+    collection_id: 2,
+    imgUrl:
+      "https://lh3.googleusercontent.com/Mh4uyqaXT8pyvMAqyl40DJYFthsO_9Hd0y7GUzbj6DX7U55aF2IVaCYFN28QU8Gm59Me4nQucGp0u0EV60MFZ2iDlX3eAdPO7gD7h9g=w600",
+    owner: "CryptoHussler",
+    collectionname: "Divine Anarchy",
+    itemname: "#3652",
+    itemDescription: {
+      createdBy: "DivineAnarchyS1",
+      description: "Divine Anarchy",
+    },
+    date : 'March 30,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "11",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Whiite",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+      {
+        propertiesId: 5,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0xc631164b6cb1340b5123c9162f8558c866de1926",
+      tokenId: 3658,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 102,
+        expiration: 3,
+        from: "abc",
+      },
+      {
+        id: 2,
+        price: 3,
+        usdPrice: 100,
+        expiration: 4,
+        from: "xyz",
+      },
+      {
+        id: 3,
+        price: 7,
+        usdPrice: 200,
+        expiration: 1,
+        from: "qwerty",
+      },
+    ],
+    price: 0.41,
+    usdPrice: 6700,
+  },
+  {
+    id: 6,
+    collection_id: 2,
+    imgUrl:
+      "https://lh3.googleusercontent.com/_1G_BMFzI_YiT-X1ciH1PWm8Nx2AFnCNHF59PlYecWfzeRitQQqXQzIMioy9FL9nDUeJu2NDoyphq8yxiTXhnaajiZAS-No5bDON=w600",
+    owner: "FireStarter",
+    collectionname: "Divine Anarchy",
+    itemname: "#3693",
+    itemDescription: {
+      createdBy: "DivineAnarchyS1",
+      description: "Divine Anarchy",
+    },
+    date : 'April 4,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "11",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Whiite",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0xc631164b6cb1340b5123c9162f8558c866de1926",
+      tokenId: 3958,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 102,
+        expiration: 3,
+        from: "abc",
+      },
+    ],
+    price: 1,
+    usdPrice: 1500,
+  },
+  {
+    id: 7,
+    collection_id: 3,
+    imgUrl:
+      "https://lh3.googleusercontent.com/QchujEKS_eIi2AiWEXCVSvGeo4zKlUKL94GKgwIzGQgdUH5Dw1ZD_x0dxJBDkqFABiNpZK9XAhRLDhw01z4cSd7n1d4JP09HPnf8Mg=w600",
+    owner: "SomeGamerGuy",
+    collectionname: "Mecha Chaotic: Bedlam",
+    itemname: "Bedlam #914",
+    itemDescription: {
+      createdBy: "Bedlam-deployer",
+      description:
+        "The ritual completes. You are... corrupted. Twisted. A wicked and cruel change has overcome you. A dark pact has been made at a great cost, yet to be determined. Yours is the path of sacrifice, bolstering the ranks of the damned. You will offer others to the darkness to save yourself, but in doing so gain the power of darkness itself.",
+    },
+    date : 'June 20,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "Velvet",
+        third: "44% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Fatty",
+        third: "41% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "FACTION",
+        second: "Void",
+        third: "20% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "BLOODLINE",
+        second: "European",
+        third: "6% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0xba0a8ff51f281f7e49c6182390cfbe518f965433",
+      tokenId: 914,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 4,
+        usdPrice: 10,
+        expiration: 1,
+        from: "cvb",
+      },
+      {
+        id: 2,
+        price: 5,
+        usdPrice: 12,
+        expiration: 3,
+        from: "abc",
+      },
+      {
+        id: 3,
+        price: 45,
+        usdPrice: 2,
+        expiration: 4,
+        from: "qwe",
+      },
+    ],
+    price: 5,
+    usdPrice: 3000,
+  },
+  {
+    id: 8,
+    collection_id: 3,
+    imgUrl:
+      "https://lh3.googleusercontent.com/T4ijymRamyi6mPD8f_OPzljUFkRWOzkZke2VuXwfAph2EWda3FgfZd-PiHXHwBEGvsg_b2HcCXQbantiybUHNesVNRIQ1HP0o1OB=w600",
+    owner: "JAmonk",
+    collectionname: "Mecha Chaotic: Bedlam",
+    itemname: "Bedlam #1014",
+    itemDescription: {
+      createdBy: "Bedlam-deployer",
+      description:
+        "The ritual completes. You are... corrupted. Twisted. A wicked and cruel change has overcome you. A dark pact has been made at a great cost, yet to be determined. Yours is the path of sacrifice, bolstering the ranks of the damned. You will offer others to the darkness to save yourself, but in doing so gain the power of darkness itself.",
+    },
+    date : 'March 3,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "blue",
+        third: "44% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BODY",
+        second: "Good",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "FACTION",
+        second: "Nice",
+        third: "70% have this trait",
+      },
+      {
+        propertiesId: 4,
+        first: "BLOODLINE",
+        second: "Canadian",
+        third: "64% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0xba0a8ff51f281f7e49c6182390cfbe518f965433",
+      tokenId: 2264,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 4,
+        usdPrice: 10,
+        expiration: 1,
+        from: "cvb",
+      },
+      {
+        id: 2,
+        price: 5,
+        usdPrice: 12,
+        expiration: 3,
+        from: "abc",
+      },
+    ],
+    price: 4,
+    usdPrice: 2300,
+  },
+  {
+    id: 9,
+    collection_id: 4,
+    imgUrl:
+      "https://lh3.googleusercontent.com/-LC557W3yiKV0lxG_BCY4iHiX-OInyGeddDn8afpbXTlDmdSnQGIp59813vyOmJp2jeWmVW0nCdeSUBRy0y5QSv7uFyXOAMTs3QFb7s=w600",
+    owner: "JAmonk",
+    collectionname: "Instrumentals / Beats",
+    itemname: "Interchange Silver Blank",
+    itemDescription: {
+      createdBy: "607HF",
+      description: "Blank Edition for Interchange by Beats Antique.",
+    },
+    date : 'May 23,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "ARTIST",
+        second: "Beats Antique",
+        third: "44% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "ASSET TYPE",
+        second: "Blank Recoed",
+        third: "4% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0xba0a8ff51f281f7e49c6182390cfbe518f965433",
+      tokenId: 2264,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 0.04,
+        usdPrice: 125,
+        expiration: 1,
+        from: "cvb",
+      },
+      {
+        id: 2,
+        price: 0.02,
+        usdPrice: 10,
+        expiration: 3,
+        from: "abc",
+      },
+    ],
+    price: 0.04,
+    usdPrice: 125,
+  },
+  {
+    id: 10,
+    collection_id: 4,
+    imgUrl:
+      "https://lh3.googleusercontent.com/3FHmtKScdU7fDNKK4XRMcVxAyaned8UTHlqp7SkwDktrH-mg4RooOpTn6o4OrL_R0j9HZggs2s8Rw3WYqFGX-uEd3qesvIbmquTJPA=w600",
+    owner: "Optimus",
+    collectionname: "Instrumentals / Beats",
+    itemname: "The Song of Nine Paths Silver Edition (Mix: 387221640)",
+    itemDescription: {
+      createdBy: "Optimus",
+      description:
+        "I saw a whisper, No matter how I go! Breathless like the sky, The clouds fade away.",
+    },
+    date : 'March 17,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "ARTIST",
+        second: "Lee Gaito",
+        third: "4% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "ARTIST",
+        second: "Pak",
+        third: "5% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "ASSET TYPE",
+        second: "Recording",
+        third: "4% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x3e43944d977dea22511da6d33c0cab666a604515",
+      tokenId: 781,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 0.15,
+        usdPrice: 470,
+        expiration: 5,
+        from: "ava",
+      },
+    ],
+    price: 0.15,
+    usdPrice: 470,
+  },
+  {
+    id: 11,
+    collection_id: 5,
+    imgUrl:
+      "https://lh3.googleusercontent.com/olWLKx74PUlnfp4ALLTuj7KjOB8RPDyaUxp_tGQNlJIGFKOhzEaMnBiwBOCxjmhHKn27Vc45HPHPkOOcIkJfZGf0S6o4qWNSV6OdeLQ=w600",
+    owner: "Jadius",
+    collectionname: "Sleepless Streets",
+    itemname: "Sleepless Streets #045 Purple Rain",
+    itemDescription: {
+      createdBy: "Tyler",
+      description:
+        "Exploring and finding Neon signs and city lights in the rain is something out of a dream. Once I find a composition I love I sometimes spend hours just waiting for that perfect moment to appear, the way the signs line up and the depth really caught my eye. Then this ladies white coat matching the sign above her is what really stood out to me the most. Adventuring in the purple rain.",
+    },
+    date : 'June 26,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "LOCATION",
+        second: "TORONTO",
+        third: "100% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "SPECIAL",
+        second: "Neon",
+        third: "54% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "MEDIUM",
+        second: "Photoraphy",
+        third: "42% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x495f947276749ce646f68ac8c248420045cb7b5e",
+      tokenId: 4565,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 0.85,
+        usdPrice: 2570,
+        expiration: 2,
+        from: "me",
+      },
+    ],
+    price: 0.85,
+    usdPrice: 2570,
+  },
+  {
+    id: 12,
+    collection_id: 5,
+    imgUrl:
+      "https://lh3.googleusercontent.com/7bZAkhcTvDFRLeWg30AnfauVKdQJ6cSuXsuVXToyA1tJQGBsPPq8fD6mKSD0l_CsbiTns_NwIGaqV3WNcT-rpC0hq1si6i1j1DPjjw=w600",
+    owner: "Torontogrvm",
+    collectionname: "Sleepless Streets",
+    itemname: "Sleepless Streets #040 Deep Space Nine",
+    itemDescription: {
+      createdBy: "Tyler",
+      description:
+        "To think Toronto's City Hall resembling a spaceship was built so long ago in 1965. It's futuristic look is the perfect building to tie together all the street stories for Sleepless Streets. Standing on a rooftop far above the city streets with nothing but you and the feeling of wind blowing past you is the greatest feeling and so hard to explain. Welcome to Toronto the city that's always pushing into the future.",
+    },
+    date : 'October 28,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "LOCATION",
+        second: "TORONTO",
+        third: "100% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "SPECIAL",
+        second: "CityScap",
+        third: "54% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "MEDIUM",
+        second: "Photoraphy",
+        third: "42% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x495f947276749ce646f68ac8c248420045cb7b5e",
+      tokenId: 1111,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 15070,
+        expiration: 5,
+        from: "torontoguy",
+      },
+    ],
+    price: 5,
+    usdPrice: 15070,
+  },
+  {
+    id: 13,
+    collection_id: 5,
+    imgUrl:
+      "https://lh3.googleusercontent.com/v9tyrGaQwnUAsK1N9j0UU_SX5H52bWRmwB-pB42Px9UJpD7qIZyjXS_DbYOzPeSyLzixXsHxN3pR1FgJGFxRSnLz4nXKDFNlAwxs=w600",
+    owner: "Sunsept",
+    collectionname: "Sleepless Streets",
+    itemname: "Sleepless Streets #056 Caution",
+    itemDescription: {
+      createdBy: "Tyler",
+      description:
+        "The moments when you are just passing through to get from one place to the next are the moments you forget. These are the moments I find the most beauty in and use my lens to freeze them forever. Beauty in the in between. X marks the spot.",
+    },
+    date : 'March 4,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "LOCATION",
+        second: "TORONTO",
+        third: "100% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "SPECIAL",
+        second: "CityScap",
+        third: "54% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "MEDIUM",
+        second: "Photoraphy",
+        third: "42% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x495f947276749ce646f68ac8c248420045cb7b5e",
+      tokenId: 1562,
+      tockenStandard: "ERC-1155",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 5,
+        usdPrice: 15070,
+        expiration: 5,
+        from: "torontoguy",
+      },
+    ],
+    price: 5,
+    usdPrice: 15070,
+  },
+  {
+    id: 14,
+    collection_id: 6,
+    imgUrl:
+      "https://lh3.googleusercontent.com/HS2QYxc4sNuphqwnWq021IigIvjnZ8aPMgt1JuMSCIOHMbxzlx-dQOvxOhPKIdbEpDkMOqkqLm69PIjp9WHtNqmrxfvchZDf2LPt-w=w600",
+    owner: "LaBaguetteCroustillan.",
+    collectionname: "SportsIcon Lion",
+    itemname: "SportsIcon Lion #2720",
+    itemDescription: {
+      createdBy: "SportsLion",
+      description:
+        "SportsIcon Lion #2720",
+    },
+    date : 'March 8,2022',
+    properties: [
+      {
+        propertiesId: 1,
+        first: "BACKGROUND",
+        second: "Orange",
+        third: "90% have this trait",
+      },
+      {
+        propertiesId: 2,
+        first: "BEARD",
+        second: "None",
+        third: "70% have this trait",
+      },
+      {
+        propertiesId: 3,
+        first: "EYES",
+        second: "Normal",
+        third: "90% have this trait",
+      },
+    ],
+    detail: {
+      contractAddress: "0x59ec8e68d9caa87f6b5bc4013172c20e85ccdad0",
+      tokenId: 2720,
+      tockenStandard: "ERC-721",
+      blockchain: "ethereum",
+    },
+    listings: [
+      {
+        id: 1,
+        price: 0.02,
+        usdPrice: 87,
+        expiration: 3,
+        from: "arc",
+      },
+      {
+        id: 2,
+        price: 0.5,
+        usdPrice: 150,
+        expiration: 2,
+        from: "acd",
+      },
+      {
+        id: 3,
+        price: 1,
+        usdPrice: 300,
+        expiration: 2,
+        from: "fgh",
+      },
+    ],
+    price: 0.02,
+    usdPrice: 87,
+  },
+];
